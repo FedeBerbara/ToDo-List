@@ -1,0 +1,9 @@
+body, #main-header {
+    background: -webkit-linear-gradient(to right, #191654, #43C6AC); 
+    background: #43C6AC;  
+    background: linear-gradient(to right, #191654, #43C6AC); 
+}
+
+#main {
+    border: solid 4px #000000;
+}
